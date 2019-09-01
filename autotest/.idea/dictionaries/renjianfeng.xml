@@ -41,6 +41,19 @@
       <w>productname</w>
       <w>setname</w>
       <w>setvalue</w>
+      <w>webassertdata</w>
+      <w>webcase</w>
+      <w>webcasename</w>
+      <w>webcasestep</w>
+      <w>webevelement</w>
+      <w>webfindmethod</w>
+      <w>weboptmethod</w>
+      <w>webtest</w>
+      <w>webtestdata</w>
+      <w>webtester</w>
+      <w>webtestobjname</w>
+      <w>webtestresult</w>
+      <w>webteststep</w>
     </words>
   </dictionary>
 </component>
